@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-4-3
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 paperurl: ''
-citation: '<b>Jun Chen</b>, Liang Liu, Yong Liu and Xianfang Zeng. &quot; Learning Framework for n-Bit Quantized Neural Networks Toward FPGAs. &quot; <i>IEEE Transactions on Neural Networks and Learning Systems</i>. 2020.'
+citation: '<b>Jun Chen</b>, Liang Liu, Yong Liu and Xianfang Zeng. &quot; A Learning Framework for n-Bit Quantized Neural Networks Toward FPGAs. &quot; <i>IEEE Transactions on Neural Networks and Learning Systems</i>. 2020.'
 ---
 ## Abstract
 
