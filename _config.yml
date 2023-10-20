@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jun Chen"
+title                    : "Jun Chen's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jun Chen"
 description              : &description "The personal page of Jun Chen"
