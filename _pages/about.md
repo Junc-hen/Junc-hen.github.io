@@ -10,8 +10,8 @@ redirect_from:
 
 
 - Model compression & acceleration
-- Riemannian geometry theory
-- Manifold optimization
+- Geometry theory
+- Riemannian optimization
 - Decentralized optimization
 
 
