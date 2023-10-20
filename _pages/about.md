@@ -9,14 +9,10 @@ redirect_from:
 ---
 
 
-======
-- Model compression and acceleration
-- Riemannian geometry
+- Model compression & acceleration
+- Riemannian geometry theory
 - Manifold optimization
+- Decentralized optimization
 
 
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
+My primary research achievements to date have been associated with model compression and acceleration, through quantization and pruning techniques. I am now interested in Riemannian optimization through the lens of geometry theory. I believe that Riemannian geometry can provide effective tools for solving many problems in machine learning and provide theoretical explanations for the black box of deep learning.
