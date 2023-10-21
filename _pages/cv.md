@@ -50,6 +50,6 @@ Submitted Papers
   
 Awards
 ======
-  First Prize of Zhejiang Province Science and Technology Progress Award
-  （浙江省科学技术进步一等奖）
+  First Prize of Zhejiang Province Science and Technology Progress Award in 2021
+  （2021年浙江省科学技术进步一等奖）
 

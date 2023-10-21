@@ -3,8 +3,7 @@ title: "Decentralized Riemannian Conjugate Gradient Method on the Stiefel Manifo
 collection: talks
 type: ""
 permalink: /talks/drcgd
-date: 2023-8-21
-location: "<b>Jun Chen</b>, Haishan Ye, Mengmeng Wang, Tianxin Huang, Guang Dai, Ivor W.Tsang and Yong Liu. &quot; Decentralized Riemannian Conjugate Gradient Method on the Stiefel Manifold. &quot; <i>ArXiv</i>. 2023."
+date: <b>Jun Chen</b>, Haishan Ye, Mengmeng Wang, Tianxin Huang, Guang Dai, Ivor W.Tsang and Yong Liu. &quot; Decentralized Riemannian Conjugate Gradient Method on the Stiefel Manifold. &quot; <i>ArXiv</i>. 2023.
 ---
 ## Abstract
 
