@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Research Interests"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
+Research Interests
+======
 - Model compression & acceleration
 - Geometry theory
 - Riemannian optimization
