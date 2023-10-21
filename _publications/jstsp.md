@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-1-13
 venue: 'IEEE Journal of Selected Topics in Signal Processing'
 paperurl: ''
-citation: '<b>Jun Chen</b>, Yong Liu, Hao Zhang, Shengnan Hou and Jian Yang. &quot;Propagating asymptotic-estimated gradients for low bitwidth quantized neural networks. &quot; <i>IEEE Journal of Selected Topics in Signal Processing</i>. 2020.'
+citation: '<b>Jun Chen</b>, Yong Liu, Hao Zhang, Shengnan Hou and Jian Yang. &quot; Propagating asymptotic-estimated gradients for low bitwidth quantized neural networks. &quot; <i>IEEE Journal of Selected Topics in Signal Processing</i>. 2020.'
 ---
 ## Abstract
 
