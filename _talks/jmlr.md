@@ -3,7 +3,8 @@ title: "Learning Discretized Neural Networks under Ricci Flow"
 collection: talks
 type: ""
 permalink: /talks/jmlr
-date: <b>Jun Chen</b>, Hanwen Chen, Mengmeng Wang, Guang Dai, Ivor W.Tsang and Yong Liu. &quot; Learning Discretized Neural Networks under Ricci Flow. &quot; <i>ArXiv</i>. 2023.
+date: 2023-4-25
+venue: <b>Jun Chen</b>, Hanwen Chen, Mengmeng Wang, Guang Dai, Ivor W.Tsang and Yong Liu. &quot; Learning Discretized Neural Networks under Ricci Flow. &quot; <i>ArXiv</i>. 2023.
 ---
 ## Abstract
 
